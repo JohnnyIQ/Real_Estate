@@ -38,30 +38,5 @@ The Real Estate Portal System is a web-based application built using **PHP and M
 - **Server:** XAMPP / Apache
 - **Tools:** phpMyAdmin
 
----
 
-## 📂 Project Structure
-real-estate-portal/
-│
-├── db.php
-├── index.php
-├── login.php
-├── logout.php
-├── register.php
-├── dashboard.php
-│
-├── properties.php
-├── property_details.php
-├── add_property.php
-├── edit_property.php
-├── delete_property.php
-│
-├── favorites.php
-├── toggle_favorite.php
-│
-├── submit_inquiry.php
-│
-├── images/
-│
-└── SQL/
-└── schema.sql
+
